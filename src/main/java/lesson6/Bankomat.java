@@ -1,7 +1,7 @@
 package lesson6;
 
 import java.util.Scanner;
-
+//Решение.
 public class Bankomat {
 
     public void changeCreditCard(CreditCard card) {
