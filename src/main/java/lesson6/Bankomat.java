@@ -39,7 +39,6 @@ public class Bankomat {
     }
 
     public static void main(String[] args) {
-
         CreditCard CreditCard1 = new CreditCard(1, 100);
         CreditCard CreditCard2 = new CreditCard(2, 100);
         CreditCard CreditCard3 = new CreditCard(3, 100);
